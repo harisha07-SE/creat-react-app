@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/creat-react-app/static/css/main.9d5b29c0.chunk.css",
+    "main.css": "/creat-react-app/static/css/main.1635e87c.chunk.css",
     "main.js": "/creat-react-app/static/js/main.f3843033.chunk.js",
     "main.js.map": "/creat-react-app/static/js/main.f3843033.chunk.js.map",
     "runtime-main.js": "/creat-react-app/static/js/runtime-main.d4d846d5.js",
@@ -10,14 +10,14 @@
     "static/js/3.705cb397.chunk.js": "/creat-react-app/static/js/3.705cb397.chunk.js",
     "static/js/3.705cb397.chunk.js.map": "/creat-react-app/static/js/3.705cb397.chunk.js.map",
     "index.html": "/creat-react-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/creat-react-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.1635e87c.chunk.css.map": "/creat-react-app/static/css/main.1635e87c.chunk.css.map",
     "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/creat-react-app/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
     "static/media/personal-image.122a47ee.JPG": "/creat-react-app/static/media/personal-image.122a47ee.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.d4d846d5.js",
     "static/js/2.910eb6d6.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
+    "static/css/main.1635e87c.chunk.css",
     "static/js/main.f3843033.chunk.js"
   ]
 }
