@@ -1,12 +1,8 @@
 {
-  "homepage": "http://harisha07-SE.github.io/creat-react-app",
+  "homepage": "https://harisha07-se.github.io/creat-react-app/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/harisha07-SE/creat-react-app.git"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
